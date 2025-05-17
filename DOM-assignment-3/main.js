@@ -1,4 +1,3 @@
-//Assignment - 3
 let task = document.getElementById("task");
 let priority = document.getElementById("priority");
 let form = document.getElementById("form");
